@@ -1,1 +1,1 @@
-traveloka-clone
+travelokaClone
